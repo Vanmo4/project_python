@@ -1,2 +1,2 @@
-# proje-t_python
+# project_python
 python_modul
